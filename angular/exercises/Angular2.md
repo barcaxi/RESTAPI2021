@@ -44,5 +44,5 @@ View the app at [http://localhost:4200](http://localhost:4200)
 
 1.  Spend some time examining the structure of the files in the project.
 
-1.  View the video **6 - Create Component Manual** and create the `ClubsComponent` as shown.
+1.  View the video **6 - Create Component (Manually)** and create the `ClubsComponent` as shown.
 
